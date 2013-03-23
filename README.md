@@ -1,0 +1,4 @@
+teamB
+=====
+
+proiect IDP
